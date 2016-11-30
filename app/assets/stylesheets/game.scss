@@ -1,3 +1,22 @@
-// Place all the styles related to the game controller here.
-// They will automatically be included in application.css.
-// You can use Sass (SCSS) here: http://sass-lang.com/
+.spacerS {
+  margin: 15px 15px 15px 15px;
+}
+
+.spacerM {
+  margin: 30px 30px 30px 30px;
+}
+
+.spacerL {
+  margin: 50px 50px 50px 50px;
+}
+
+.back {
+  height: 300px;
+}
+
+.small {
+  border-radius: 19px;
+  background-color: grey;
+  height: 300px;
+  width: 216px;
+}
